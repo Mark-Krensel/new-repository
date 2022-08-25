@@ -6,3 +6,4 @@
 - git add . (or) file name --> status wechseln zu "modified"
 - git push --> hochladen
 - git commit -m "message"
+- git restore . -> alle ädnerungen rückgängig machen, die zb commited sind
